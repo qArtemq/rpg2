@@ -1,0 +1,15 @@
+{
+  "name": "LifeQuest RPG",
+  "short_name": "LifeQuest",
+  "description": "Turn real life into an RPG. Complete real quests, level up, fight bosses.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0d0b1a",
+  "theme_color": "#161329",
+  "orientation": "portrait-primary",
+  "icons": [
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}
